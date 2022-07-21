@@ -17,6 +17,11 @@ body
      max-height: 40px;
 }
 
+a.nav-link:hover 
+{
+    color: #0095FF !important;
+}
+
 #top-nav
 {
     background-color: #F7FAFF;
